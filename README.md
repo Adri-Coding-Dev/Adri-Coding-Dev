@@ -19,7 +19,7 @@ philosophy: |
 ♟️ Apasionado por lógica, juegos, y diseño limpio
 🎙️ A veces en Twitch, otras en YouTube. Siempre en modo Dev.
 🚨 Odio los tutoriales que hacen copiar y pegar — yo los destripo
-
+```
 ---
 
 ## 🔹 3. Tabla de Proyectos
@@ -33,7 +33,7 @@ philosophy: |
 | ♟️ Chess Game | Juego completo de ajedrez en Swing, UI custom, sin librerías | Java · OOP · Swing |
 | 🔐 Login Portal | Sistema de login en PHP con usuarios cifrados y avatar dinámico | PHP · MySQL · HTML |
 | 🛍️ Mini E-commerce (en camino) | Proyecto completo con backend en Java y frontend visual | Java · HTML/CSS · JS · DB |
-
+```
 ## 🔧 My Tech Stack
 
 <p align="center">
