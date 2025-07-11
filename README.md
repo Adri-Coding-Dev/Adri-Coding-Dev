@@ -1,22 +1,20 @@
-<!-- HEADER PERSONAL CON GRAN TITULO Y ESTILO PROPIO -->
+<!-- PERFIL README DE ADRIÁN -->
+<!-- 🧠 Mentalidad fuera del rebaño. Vamos con todo. -->
 
-<h1 align="center">
-  🌐 Adrián "Adrilaso" | Web Dev in Progress 🚧
+<h1 align="center" style="font-weight: bold; font-size: 3rem;">
+  🔥 Adrián — Web Developer with Fire 🔥
 </h1>
 
 <p align="center">
-  <strong>Creative Mind · Code Addict · Future Fullstack Rockstar</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Java+and+JavaScript+Enthusiast;Frontend+Craftsman+in+Training;Building+One+Project+at+a+Time" alt="Typing SVG" />
+  <i>"No vine a seguir el camino, vine a abrir el mío."</i><br>
+  Fullstack ⚡ | Java 🧠 | Web 💻 | Código con alma
 </p>
 
 ---
 
-## 🧩 Who is Adrián?
+## 🧩 Sobre mí
 
-```diff
-+ I’m a junior developer who loves turning ideas into digital things that work.
-+ I learn fast, build faster, and fail forward.
-- I don’t copy tutorials. I break them, tweak them, and rebuild from scratch.
+```txt
+Nombre: Adrián
+Rol: Desarrollador Web en formación, con visión de gigante
+Filosofía: Código que resuelva, diseño que atrape, actitud que inspire
