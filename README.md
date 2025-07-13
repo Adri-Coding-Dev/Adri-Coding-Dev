@@ -74,8 +74,7 @@
 ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingWithAdri&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithAdri&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github.com/Adri-Coding-Dev?tab=repositories" alt="GitHub stats" />
 </p>
 
 ---
