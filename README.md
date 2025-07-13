@@ -1,78 +1,69 @@
-<h1 align="center">🧪 Adrián | Fullstack Apprentice with a Hacker Soul ⚙️</h1>
+<h1 align="center">👋 ¡Hola mundo! Soy Coding with Adri</h1>
+<h3 align="center">Desarrollador Web Fullstack | Apasionado por la Ciberseguridad | Siempre aprendiendo</h3>
 
-<p align="center"><strong>Java · JavaScript · Web Addict · Code with Personality</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFD5&vCenter=true&center=true&width=460&lines=Breaking+Tutorials+Since+2024;From+Chess+Boards+to+E-Commerce;I+Code+With+Passion+%26+Purpose" alt="Typing animation" />
-</p>
-## 🧬 About Me
-
-```yaml
-name: Adrián
-alias: "Coding With Adri"
-level: "Learning → Building → Leveling Up"
-focus: "Frontend & Java Backend"
-philosophy: |
-  "No soy uno más. No sigo fórmulas.
-  Reescribo la plantilla."
-🔥 Siempre aprendiendo y siempre creando
-♟️ Apasionado por lógica, juegos, y diseño limpio
-🎙️ A veces en Twitch, otras en YouTube. Siempre en modo Dev.
-🚨 Odio los tutoriales que hacen copiar y pegar — yo los destripo
-```
 ---
 
-## 🔹 3. Tabla de Proyectos
+### 👨‍💻 Sobre mí
 
-```markdown
-## 🧠 Project Arsenal
+- 💻 Soy Adrián, desarrollador web fullstack en formación y programador principiante con muchas ganas de crecer.
+- 🎯 Mi objetivo profesional es **aprender constantemente**, mejorar mis habilidades técnicas y trabajar en **ciberseguridad**, donde realmente me gustaría crecer profesionalmente.
+- 🌐 Aunque la mayoría de mis proyectos son web, me encanta explorar nuevos retos y lenguajes.
+- 💡 Siempre estoy creando algo nuevo, desde bots y CRUDs hasta interfaces gráficas y herramientas útiles.
 
-| 💡 Proyecto | 🚀 Descripción | 🛠️ Tecnologías |
-|------------|----------------|----------------|
-| ✅ To-Do App | CRUD 100% en JS, con almacenamiento local y modo dark ☑️ | HTML · CSS · JavaScript |
-| ♟️ Chess Game | Juego completo de ajedrez en Swing, UI custom, sin librerías | Java · OOP · Swing |
-| 🔐 Login Portal | Sistema de login en PHP con usuarios cifrados y avatar dinámico | PHP · MySQL · HTML |
-| 🛍️ Mini E-commerce (en camino) | Proyecto completo con backend en Java y frontend visual | Java · HTML/CSS · JS · DB |
-```
-## 🔧 My Tech Stack
+---
+
+### 🛠 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🧠 Proyectos personales
+
+🚀 Aquí algunos de mis proyectos favoritos:
+
+- ♟️ **Ajedrez con interfaz gráfica en Java**
+- 🔐 **CRUD de login con conexión a base de datos**
+- 🍽️ **Página web completa para restaurante**
+- 🤖 **Bot de Discord personalizado**
+- 🔑 **Generador de contraseñas**
+- 💻 Y más... ¡los puedes explorar en mis repos!
+
+---
+
+### 🎥 Contenido y comunidad
+
+Estoy comprometido con compartir lo que aprendo y conectar con otros apasionados de la informática:
+
+- 📺 [YouTube – Coding with Adri](https://www.youtube.com/) _(contenido técnico, proyectos y más)_
+- 🎮 [Twitch – Coding with Adri](https://www.twitch.tv/) _(directos haciendo proyectos y hablando de hacking ético)_
+- 💬 Comunidad en [Discord](https://discord.com/) _(aprendizaje, preguntas y networking)_
+
+---
+
+### 🎸 Un poco más de mí
+
+- 🎹 **Hobbies**: Tocar la guitarra y el piano
+- 📚 **Intereses**: Aprender cada día algo nuevo
+- ✨ **Frase favorita**: *"Aprendiz de todo y maestro de nada"*
+
+---
+
+### 📫 ¿Quieres hablar?
+
+Estoy abierto a nuevas oportunidades, colaboraciones y feedback constructivo.
+
+📧 **Email:** _[TuEmail@aqui.com]_  
+🌐 **Portafolio o sitio personal:** _[si tienes uno, lo agrego]_
+
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  Hecho con ❤️ por Adrián
 </p>
-## 🔗 Mis Canales
-
-<p align="center">
-  <a href="https://www.youtube.com/@CodingWithAdri-s3n" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-Adrilaso-red?style=for-the-badge&logo=youtube" />
-  </a>
-  <a href="https://www.twitch.tv/coding_with_adri" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-Stream+On-purple?style=for-the-badge&logo=twitch" />
-  </a>
-  <a href="https://discord.gg/3k9xukkp" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Dev+Hangout-7289DA?style=for-the-badge&logo=discord" />
-  </a>
-</p>
-## 🧨 Código en acción
-
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" height="180" />
-</p>
-## 🧭 En resumen...
-
-🎯 Soy un desarrollador junior que no quiere encajar.  
-🎨 Construyo proyectos con visión, estética y lógica.  
-🧪 Estoy en fase evolución constante.  
-💼 Busco entornos donde se valore la **creatividad con código**.
-## 📫 Contacto
-
-> 📨 *¿Querés colaborar, contratarme o simplemente charlar de código?*  
-> **Mail:** _[adrilasovelasco@gmail.com]_  
-> **Portfolio Web (próximamente)_
-<p align="center">⚡ Powered by ganas, constancia y unas cuantas líneas de código rotas.</p>
