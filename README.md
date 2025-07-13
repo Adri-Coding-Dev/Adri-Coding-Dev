@@ -74,7 +74,7 @@
 ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
 <p align="center">
-  <img src="https://github.com/Adri-Coding-Dev?tab=repositories" alt="GitHub stats" />
+  <img src="https://redigital.economistas.es/wp-content/uploads/2023/05/4a-How-GitHub-is-shaping-your-software-career.png" alt="GitHub stats" href="https://github.com/Adri-Coding-Dev?tab=repositories"/>
 </p>
 
 ---
