@@ -73,7 +73,7 @@
 
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Personalizacion de Kali Linux AL COMPLETO](https://i.ytimg.com/an_webp/eyy8SxSaon0/mqdefault_6s.webp?du=3000&sqp=CJvq0MUG&rs=AOn4CLDuCppZWsiJSpOSnuOoecGix5ePiQ "Personalizacion de Kali Linux AL COMPLETO")](https://www.youtube.com/watch?v=eyy8SxSaon0)
+[![Personalizacion de Kali Linux AL COMPLETO](Miniaturas/Personalizacion_Kali.jpg "Personalizacion de Kali Linux AL COMPLETO")](https://www.youtube.com/watch?v=eyy8SxSaon0)
 
 
 <!-- END YOUTUBE-CARDS -->
