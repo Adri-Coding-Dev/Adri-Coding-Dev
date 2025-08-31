@@ -74,12 +74,13 @@
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
 ### Personalizacino de Kali Linux
-
 <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200px" height="200px"></a>
+
 ### Curso de Java - Condicionales
-[![Curso de Java_1](Miniaturas/Curso_Java.jpg "Curso de Java_Condicionales")](https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2)
+<a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a>
+
 ### Bot de Discord Paso a Paso
-[![Bot Discord](Miniaturas/Bot_Discord.jpg "Bot Discord")](https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s)
+<a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s"><img src="Miniaturas/Bot_Discord.jpg" width="200px" height="200px"></a>
 
 <!-- END YOUTUBE-CARDS -->
 
