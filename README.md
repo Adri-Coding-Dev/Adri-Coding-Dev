@@ -39,10 +39,10 @@
 
 🚀 **Proyectos hechos con amor y café:**
 
-- ♟️ ![Ajedrez con Interfaz Grafica en Java](https://github.com/Adri-Coding-Dev/Master_Chess)  
-- 🔐 ![Galleria de Hitos de Cyberseguridad](https://github.com/Adri-Coding-Dev/Galleria_De_Hitos_Ciberseguridad)  
-- 🍽️ ![Web responsive de restaurante](https://github.com/Adri-Coding-Dev/Asador-El-Paraiso.github.io)  
-- 🤖 ![Bot de Discord con comandos personalizados](https://github.com/Adri-Coding-Dev/Bot_Discord)  
+- ♟️ <a href="https://github.com/Adri-Coding-Dev/Master_Chess">Ajedrez con Interfaz Grafica en Java</a>  
+- 🔐 <a href="https://github.com/Adri-Coding-Dev/Galleria_De_Hitos_Ciberseguridad">Galleria de Hitos de Cyberseguridad</a>  
+- 🍽️ <a href="https://github.com/Adri-Coding-Dev/Asador-El-Paraiso.github.io">Web responsive de restaurante</a>  
+- 🤖 <a href="https://github.com/Adri-Coding-Dev/Bot_Discord">Bot de Discord con comandos personalizados</a>  
 - 🧰 <a href="https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as">Generador de contraseñas Robustas</a>  
 - 🌐 Más proyectos en camino... ¡échales un vistazo!
 
@@ -73,6 +73,9 @@
 
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Personalizacion de Kali Linux AL COMPLETO](https://i.ytimg.com/an_webp/eyy8SxSaon0/mqdefault_6s.webp?du=3000&sqp=CJvq0MUG&rs=AOn4CLDuCppZWsiJSpOSnuOoecGix5ePiQ "Personalizacion de Kali Linux AL COMPLETO")](https://www.youtube.com/watch?v=eyy8SxSaon0)
+
+
 <!-- END YOUTUBE-CARDS -->
 
 
