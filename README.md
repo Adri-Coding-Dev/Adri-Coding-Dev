@@ -74,7 +74,8 @@
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
 ### Personalizacino de Kali Linux
-[![Personalizacion de Kali Linux AL COMPLETO](Miniaturas/Personalizacion_Kali.jpg "Personalizacion de Kali Linux AL COMPLETO")](https://www.youtube.com/watch?v=eyy8SxSaon0)
+
+<a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200px" height="200px"></a>
 ### Curso de Java - Condicionales
 [![Curso de Java_1](Miniaturas/Curso_Java.jpg "Curso de Java_Condicionales")](https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2)
 ### Bot de Discord Paso a Paso
