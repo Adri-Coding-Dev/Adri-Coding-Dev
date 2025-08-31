@@ -3,7 +3,7 @@
 <h1 align="center">⚡ Bienvenid@ al cuartel de <span style="color:#00ffcc">Coding with Adri</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Developer+%7C+Cibersecurity+Enthusiast;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
 </p>
 
 ---
@@ -77,6 +77,17 @@
 | Personalización de Kali Linux | Curso de Java - Condicionales | Bot de Discord Paso a Paso |
 |-------------------------------|-------------------------------|----------------------------|
 | <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s"><img src="Miniaturas/Bot_Discord.jpg" width="200px" height="200px"></a> |
+
+| Generador de contraseñas | Verificar datos con HTML CSS y JS | Bot de Discord Paso a Paso |
+|--------------------------|-----------------------------------|----------------------------|
+| <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Generador_Contrasenas.jpg" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=zJ-rAZUoNMw"><img src="Miniaturas/Verificar_Datos.jpg" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=GWD-bA8Hn0s"><img src="Miniaturas/Cafeteria.jpg" width="200px" height="200px"></a> |
+
+<!-- Otra tabla para cuando se necesite
+| Generador de contraseñas | Curso de Java - Condicionales | Bot de Discord Paso a Paso |
+|-------------------------------|-------------------------------|----------------------------|
+| <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=3EXWWySOUXY"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s"><img src="Miniaturas/Bot_Discord.jpg" width="200px" height="200px"></a> |
+
+-->
 
 <!-- END YOUTUBE-CARDS -->
 
