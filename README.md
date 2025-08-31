@@ -43,7 +43,7 @@
 - 🔐 ![Galleria de Hitos de Cyberseguridad](https://github.com/Adri-Coding-Dev/Galleria_De_Hitos_Ciberseguridad)  
 - 🍽️ ![Web responsive de restaurante](https://github.com/Adri-Coding-Dev/Asador-El-Paraiso.github.io)  
 - 🤖 ![Bot de Discord con comandos personalizados](https://github.com/Adri-Coding-Dev/Bot_Discord)  
-- 🧰 ![Generador de contraseñas robustas](https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as)  
+- 🧰 <a href="https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as">Generador de contraseñas Robustas</a>  
 - 🌐 Más proyectos en camino... ¡échales un vistazo!
 
 ---
@@ -79,11 +79,7 @@
 ---
 ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
-<p align="center">
-  <a href="https://github.com/Adri-Coding-Dev?tab=repositories">
-    <img src="https://redigital.economistas.es/wp-content/uploads/2023/05/4a-How-GitHub-is-shaping-your-software-career.png" alt="GitHub stats"/>
-  </a>
-</p>
+![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=gruvbox)
 
 ---
 
