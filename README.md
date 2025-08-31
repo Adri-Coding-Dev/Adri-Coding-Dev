@@ -11,15 +11,15 @@
 ### 🧠 ¿Quién soy?
 
 ```txt
-📛 Nombre: Adrián (aka Coding with Adri)
-💻 Rol: Desarrollador Web Fullstack & futuro especialista en Ciberseguridad
+📛 Nombre: Adrián (alias Coding with Adri)
+💻 Rol: Estudiante de Desarrollo de Aplicaciones Multiplataforma & futuro especialista en Ciberseguridad
 🔥 Estado actual: Siempre aprendiendo y construyendo
 🧩 Filosofía: Aprendiz de todo, maestro de nada
 ```
 
 ---
 
-### ⚙️ Tech Stack que manejo con pasión:
+### ⚙️ Tecnologias que uso en mi dia a dia con pasión:
 
 <div align="center">
   
@@ -39,11 +39,11 @@
 
 🚀 **Proyectos hechos con amor y café:**
 
-- ♟️ Ajedrez con GUI en Java  
-- 🔐 CRUD de login con PHP y MySQL  
-- 🍽️ Web responsive de restaurante  
-- 🤖 Bot de Discord con comandos personalizados  
-- 🧰 Generador de contraseñas robustas  
+- ♟️ ![Ajedrez con Interfaz Grafica en Java](https://github.com/Adri-Coding-Dev/Master_Chess)  
+- 🔐 ![Galleria de Hitos de Cyberseguridad](https://github.com/Adri-Coding-Dev/Galleria_De_Hitos_Ciberseguridad)  
+- 🍽️ ![Web responsive de restaurante](https://github.com/Adri-Coding-Dev/Asador-El-Paraiso.github.io)  
+- 🤖 ![Bot de Discord con comandos personalizados](https://github.com/Adri-Coding-Dev/Bot_Discord)  
+- 🧰 ![Generador de contraseñas robustas](https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as)  
 - 🌐 Más proyectos en camino... ¡échales un vistazo!
 
 ---
@@ -71,6 +71,12 @@
 
 ---
 
+### 📹 Los mejores Videos de mi Canal
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
+---
 ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
 <p align="center">
