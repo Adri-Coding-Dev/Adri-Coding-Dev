@@ -74,7 +74,7 @@
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
 
-| NUEVA COMUNIDAD COMBINADA SH4D0W X ANONYMATIC!!!! | Advent of Code Day01 - Secret Entrance | ✅ De 0 a Java #7 – Arrays (Tuplas) |
+| COMUNIDAD SH4D0W X ANONYMATIC!!!! | Advent of Code Day01 - Secret Entrance | ✅ De 0 a Java #7 – Arrays (Tuplas) |
 |-------------------------------|-------------------------------|----------------------------|
 | <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ"><img src="Miniaturas/Comunidad.png" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI"><img src="Miniaturas/AoC2025Java.png" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |
 
