@@ -74,6 +74,10 @@
 ### 📹 Los mejores Videos de mi Canal
 <!-- BEGIN YOUTUBE-CARDS -->
 
+| NUEVA COMUNIDAD COMBINADA SH4D0W X ANONYMATIC!!!! | Advent of Code Day01 - Secret Entrance | ✅ De 0 a Java #7 – Arrays (Tuplas) |
+|-------------------------------|-------------------------------|----------------------------|
+| <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ"><img src="Miniaturas/Comunidad.png" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI"><img src="Miniaturas/AoC2025Java.png" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |
+
 | Personalización de Kali Linux | Curso de Java - Condicionales | Bot de Discord Paso a Paso |
 |-------------------------------|-------------------------------|----------------------------|
 | <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s"><img src="Miniaturas/Bot_Discord.jpg" width="200px" height="200px"></a> |
@@ -108,7 +112,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/w9KkKjpY8XkAAAAC/hacker.gif" width="250" />
+  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="250" />
 </p>
 
 <p align="center"><b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b></p>
+
+<p align="center"><b>"Primero hay que tener un 'porque' para empezar a preocuparse por el 'cómo'" Sh4d0w_Err0r</b></p>
