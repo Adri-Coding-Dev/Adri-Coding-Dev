@@ -54,7 +54,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Informática%20y%20proyectos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingWithAdri-s3n)
 [![Twitch](https://img.shields.io/badge/Twitch-Proyectos%20en%20vivo-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/coding_with_adri)
-[![Discord](https://img.shields.io/badge/Discord-Comunidad%20tech-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RhYxW79r9g)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad%20tech-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/RRSpAz6sM9)
 
 </div>
 
