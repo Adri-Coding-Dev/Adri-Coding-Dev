@@ -111,10 +111,10 @@
 
 ---
 
-<p align="center">
-  <img src="Miniaturas/gif.gif" width="250">
-</p>
-
 <p align="center"><b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b></p>
 
 <p align="center"><b>"Primero hay que tener un 'porque' para empezar a preocuparse por el 'cómo'" Sh4d0w_Err0r</b></p>
+
+<p align="center">
+  <img src="Miniaturas/gif.gif" width="250">
+</p>
