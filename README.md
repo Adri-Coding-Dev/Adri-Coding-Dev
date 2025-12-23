@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/UCQ5LookOT2ufbsGiT.gif" width="250">
+  <img src="Miniaturas/gif.gif" width="250">
 </p>
 
 <p align="center"><b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b></p>
