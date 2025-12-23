@@ -75,8 +75,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 | COMUNIDAD SH4D0W X ANONYMATIC!!!! | Advent of Code Day01 - Secret Entrance | ✅ De 0 a Java #7 – Arrays (Tuplas) |
-|-------------------------------|-------------------------------|----------------------------|
-| <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ"><img src="Miniaturas/Comunidad.png" width="200px" height="200px"></a> | <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI"><img src="Miniaturas/AoC2025Java.png" width="200px" height="200px"></a> |<a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s"><img src="Miniaturas/Curso_Java.jpg" width="200px" height="200px"></a> |
+|----------------------------------|----------------------------------------|-----------------------------------|
+| <div align="center"><a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ"><img src="Miniaturas/Comunidad.png" width="200" /></a></div> | <div align="center"><a href="https://www.youtube.com/watch?v=LOZhHvAmoBI"><img src="Miniaturas/AoC2025Java.png" width="200" /></a></div> | <div align="center"><a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s"><img src="Miniaturas/Curso_Java.jpg" width="200" /></a></div> |
 
 | Personalización de Kali Linux | Curso de Java - Condicionales | Bot de Discord Paso a Paso |
 |-------------------------------|-------------------------------|----------------------------|
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="250" />
+  <img src="https://i.giphy.com/UCQ5LookOT2ufbsGiT.gif" width="250">
 </p>
 
 <p align="center"><b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b></p>
