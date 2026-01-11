@@ -2,6 +2,16 @@
 
 <h1 align="center">⚡ Bienvenid@ al cuartel de <span style="color:#00ffcc">Coding with Adri</span> ⚡</h1>
 
+```java
+
+public class Adri{
+  private final String nombre = "Adrian";
+  private final String role = "Java Developer";
+  private final String[] languages = {"Java","JS", "Python", "Bash"};
+  private final String[] passions = { "Clean Code", "Arquitectura", "Automatización", "Open Source" };
+}
+```
+--- 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
 </p>
@@ -10,11 +20,24 @@
 
 ### 🧠 ¿Quién soy?
 
-```txt
-📛 Nombre: Adrián (alias Coding with Adri)
-💻 Rol: Estudiante de Desarrollo de Aplicaciones Multiplataforma & futuro especialista en Ciberseguridad
-🔥 Estado actual: Siempre aprendiendo y construyendo
-🧩 Filosofía: Aprendiz de todo, maestro de nada
+```java
+public void aboutMe() {
+        System.out.println("👋 Hola, soy " + name);
+        System.out.println("💻 Rol: " + role);
+        printList("🧠 Lenguajes", languages);
+        printList("🛠️ Tecnologías", frameworks);
+        printList("🔥 Me apasiona", passions);
+    }
+
+    public void dailyRoutine() {
+        while (alive()) {
+            code();
+            learn();
+            refactor();
+            commit();
+            drinkCoffee();
+        }
+    }
 ```
 
 ---
@@ -102,6 +125,14 @@
 ![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=gruvbox)
 
 ---
+
+```java
+public static void main(String[] args) {
+        Adri adri = new Adri();
+        adri.aboutMe();
+        adri.dailyRoutine();
+    }
+```
 
 ### 📫 Contacto
 
