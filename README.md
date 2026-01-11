@@ -25,7 +25,6 @@ public void aboutMe() {
         System.out.println("👋 Hola, soy " + name);
         System.out.println("💻 Rol: " + role);
         printList("🧠 Lenguajes", languages);
-        printList("🛠️ Tecnologías", frameworks);
         printList("🔥 Me apasiona", passions);
     }
 
@@ -122,7 +121,7 @@ public void aboutMe() {
 ---
 ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
-![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=gruvbox)
+![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=dark)
 
 ---
 
