@@ -62,10 +62,11 @@ public void aboutMe() {
 🚀 **Proyectos hechos con amor y café:**
 
 - ♟️ <a href="https://github.com/Adri-Coding-Dev/Master_Chess">Ajedrez con Interfaz Grafica en Java</a>  
-- 🔐 <a href="https://github.com/Adri-Coding-Dev/Galleria_De_Hitos_Ciberseguridad">Galleria de Hitos de Cyberseguridad</a>  
-- 🍽️ <a href="https://github.com/Adri-Coding-Dev/Asador-El-Paraiso.github.io">Web responsive de restaurante</a>  
-- 🤖 <a href="https://github.com/Adri-Coding-Dev/Bot_Discord">Bot de Discord con comandos personalizados</a>  
-- 🧰 <a href="https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as">Generador de contraseñas Robustas</a>  
+- 🎄 <a href="https://github.com/Adri-Coding-Dev/Advent_of_Code_Java">Advent of Code en Java</a>  
+- 🍽️ <a href="https://github.com/Adri-Coding-Dev/Asador_El_Paraiso">Web responsive de restaurante</a>  
+- 🤖 <a href="https://github.com/Adri-Coding-Dev/DiscordBot-JAVA">Bot de Discord con comandos personalizados</a>  
+- 🧰 <a href="https://github.com/Adri-Coding-Dev/Generador_de_Contrase-as">Generador de contraseñas Robustas</a>
+- ⚡ <a href="https://github.com/Adri-Coding-Dev/TypeWritting">Medidor de velocidad de escritura en Java</a>
 - 🌐 Más proyectos en camino... ¡échales un vistazo!
 
 ---
