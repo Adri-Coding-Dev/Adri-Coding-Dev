@@ -120,11 +120,16 @@ public void aboutMe() {
 
 
 ---
-### 📊 ¿Quieres ver cómo me muevo en GitHub?
+<!-- 
+  La web esta caida desde hace tiempo, es recomendable hacer una github action propia que cree la imagen y la actualice en este repo para evitar depender de la web
+  
+  ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
 ![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=dark)
-
 ---
+-->
+
+
 
 ```java
 public static void main(String[] args) {
@@ -144,7 +149,7 @@ public static void main(String[] args) {
 
 <p align="center"><b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b></p>
 
-<p align="center"><b>"Primero hay que tener un 'porque' para empezar a preocuparse por el 'cómo'" Sh4d0w_Err0r</b></p>
+<p align="center"><b>"Primero hay que tener un 'por qué' para empezar a preocuparse por el 'cómo'" Sh4d0w_Err0r</b></p>
 
 <p align="center">
   <img src="Miniaturas/gif.gif" width="250">
