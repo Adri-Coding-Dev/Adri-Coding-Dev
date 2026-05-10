@@ -122,12 +122,13 @@ public void aboutMe() {
 ---
 <!-- 
   La web esta caida desde hace tiempo, es recomendable hacer una github action propia que cree la imagen y la actualice en este repo para evitar depender de la web
-  
+  -->
   ### 📊 ¿Quieres ver cómo me muevo en GitHub?
 
-![Coding_Adri GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Coding-Dev&show_icons=true&theme=dark)
+![Coding_Adri GitHub stats](https://github.com/Adri-Coding-Dev/Adri-Coding-Dev/blob/main/top-langs.svg)
+
 ---
--->
+
 
 
 
