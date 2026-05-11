@@ -38,20 +38,6 @@ public class Adri {
 
 ---
 
-### 🧠 ¿Quién soy?
-
-```text
-👋 Hola, soy Adrian
-💻 Rol: Java Developer
-🧠 Lenguajes: Java, JS, Python, Bash
-🔥 Me apasiona: Clean Code, Arquitectura, Automatización, Open Source
-```
-
-**Rutina diaria:**  
-`código → aprender → refactorizar → commit → ☕ repetir`
-
----
-
 ### ⚙️ Tecnologías que uso con pasión
 
 <div align="center">
@@ -86,7 +72,7 @@ public class Adri {
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Informática%20y%20proyectos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingWithAdri-s3n)
+[![YouTube](https://img.shields.io/badge/YouTube-Informática%20y%20proyectos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Shadow_Error_Hack)
 [![Twitch](https://img.shields.io/badge/Twitch-Proyectos%20en%20vivo-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/coding_with_adri)
 [![Discord](https://img.shields.io/badge/Discord-Comunidad%20tech-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RRSpAz6sM9)
 
@@ -105,20 +91,82 @@ public class Adri {
 
 ---
 
-### 📹 Mis mejores vídeos
+<h3 align="center">📹 Mis mejores vídeos</h3>
 
-| Comunidad SH4D0W X ANONYMATIC | Advent of Code Day01 | ✅ De 0 a Java #7 – Arrays |
-|-------------------------------|----------------------|---------------------------|
-| <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ"><img src="Miniaturas/Comunidad.png" width="200" alt="Comunidad SH4D0W"></a> | <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI"><img src="Miniaturas/AoC2025Java.png" width="200" alt="AoC Day01"></a> | <a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s"><img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java Arrays"></a> |
-
-| Personalización de Kali Linux | Curso de Java - Condicionales | Bot de Discord Paso a Paso |
-|-------------------------------|-------------------------------|----------------------------|
-| <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Personalizacion_Kali.jpg" width="200" alt="Kali Linux"></a> | <a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2"><img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java"></a> | <a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s"><img src="Miniaturas/Bot_Discord.jpg" width="200" alt="Bot Discord"></a> |
-
-| Generador de contraseñas | Verificar datos con HTML CSS y JS | Cafetería (Proyecto) |
-|--------------------------|-----------------------------------|----------------------|
-| <a href="https://www.youtube.com/watch?v=eyy8SxSaon0"><img src="Miniaturas/Generador_Contrasenas.jpg" width="200" alt="Generador"></a> | <a href="https://www.youtube.com/watch?v=zJ-rAZUoNMw"><img src="Miniaturas/Verificar_Datos.jpg" width="200" alt="Verificar Datos"></a> | <a href="https://www.youtube.com/watch?v=GWD-bA8Hn0s"><img src="Miniaturas/Cafeteria.jpg" width="200" alt="Cafetería"></a> |
-
+<table align="center" style="border-collapse: separate; border-spacing: 12px; background-color: #1a1b26; border-radius: 10px; padding: 15px;">
+  <!-- Fila 1 -->
+  <tr>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #7dcfff55;">
+      <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ">
+        <img src="Miniaturas/Comunidad.png" width="200" alt="Comunidad SH4D0W" style="border-radius: 6px; border: 1px solid #7dcfff;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Comunidad SH4D0W<br>X ANONYMATIC</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #bb9af755;">
+      <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI">
+        <img src="Miniaturas/AoC2025Java.png" width="200" alt="AoC Day01" style="border-radius: 6px; border: 1px solid #bb9af7;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Advent of Code Day01</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #7dcfff55;">
+      <a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s">
+        <img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java Arrays" style="border-radius: 6px; border: 1px solid #7dcfff;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">✅ De 0 a Java #7 – Arrays</span>
+    </td>
+  </tr>
+  <!-- Fila 2 -->
+  <tr>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #bb9af755;">
+      <a href="https://www.youtube.com/watch?v=eyy8SxSaon0">
+        <img src="Miniaturas/Personalizacion_Kali.jpg" width="200" alt="Kali Linux" style="border-radius: 6px; border: 1px solid #bb9af7;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Personalización de Kali Linux</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #7dcfff55;">
+      <a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2">
+        <img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java" style="border-radius: 6px; border: 1px solid #7dcfff;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Curso de Java - Condicionales</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #bb9af755;">
+      <a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s">
+        <img src="Miniaturas/Bot_Discord.jpg" width="200" alt="Bot Discord" style="border-radius: 6px; border: 1px solid #bb9af7;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Bot de Discord Paso a Paso</span>
+    </td>
+  </tr>
+  <!-- Fila 3 -->
+  <tr>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #7dcfff55;">
+      <a href="https://www.youtube.com/watch?v=eyy8SxSaon0">
+        <img src="Miniaturas/Generador_Contrasenas.jpg" width="200" alt="Generador" style="border-radius: 6px; border: 1px solid #7dcfff;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Generador de contraseñas</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #bb9af755;">
+      <a href="https://www.youtube.com/watch?v=zJ-rAZUoNMw">
+        <img src="Miniaturas/Verificar_Datos.jpg" width="200" alt="Verificar Datos" style="border-radius: 6px; border: 1px solid #bb9af7;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Verificar datos con HTML CSS y JS</span>
+    </td>
+    <td align="center" style="background-color: #24283b; border-radius: 10px; padding: 12px; border: 1px solid #7dcfff55;">
+      <a href="https://www.youtube.com/watch?v=GWD-bA8Hn0s">
+        <img src="Miniaturas/Cafeteria.jpg" width="200" alt="Cafetería" style="border-radius: 6px; border: 1px solid #7dcfff;">
+      </a>
+      <br>
+      <span style="color: #c0caf5; font-weight: bold;">Cafetería (Proyecto)</span>
+    </td>
+  </tr>
+</table>
 ---
 
 
