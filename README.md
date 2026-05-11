@@ -49,7 +49,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%E2%9A%99%EF%B8%8F%20Tecnolog%C3%ADas%20que%20uso%20con%20pasi%C3%B3n-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Tecnologías" />
 </div>
 
----
 
 <div align="center">
   
@@ -69,7 +68,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%9B%A0%EF%B8%8F%20Mis%20creaciones%20favoritas-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="Proyectos" />
 </div>
 
----
 
 <div align="center">
 
@@ -92,7 +90,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%8E%A5%20Donde%20comparto%2C%20ense%C3%B1o%20y%20aprendo-ff79c6?style=for-the-badge&labelColor=1a1b26&color=ff79c6" alt="Redes" />
 </div>
 
----
 
 <div align="center">
 
@@ -108,7 +105,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%A7%A0%20Intereses%20y%20hobbies-ff9e64?style=for-the-badge&labelColor=1a1b26&color=ff9e64" alt="Intereses" />
 </div>
 
----
 
 🎸 Tocar la guitarra y el piano  
 📚 Aprender cosas nuevas todos los días  
@@ -123,7 +119,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%93%B9%20Mis%20mejores%20v%C3%ADdeos-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Vídeos" />
 </div>
 
----
 
 <div align="center">
 
@@ -198,7 +193,6 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%93%8A%20Estad%C3%ADsticas%20de%20GitHub-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="Estadísticas" />
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-Coding-Dev&theme=github-compact&bg_color=1a1b26&color=a9b1d6&line=7dcfff&point=bb9af7&area=true&hide_border=true" width="100%" alt="Gráfico de actividad"/>
