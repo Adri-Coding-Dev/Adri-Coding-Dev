@@ -1,3 +1,5 @@
+# ⚡ Bienvenid@ al cuartel de Coding with Adri ⚡
+
 <!-- Banner animado con gradiente y latido -->
 <p align="center">
   <svg width="100%" height="120" viewBox="0 0 800 120">
@@ -12,10 +14,6 @@
       </linearGradient>
     </defs>
     <rect width="800" height="120" fill="url(#grad)" rx="15"/>
-    <text x="400" y="75" font-family="Fira Code, monospace" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-      ⚡ Bienvenid@ al cuartel de Coding with Adri ⚡
-      <animate attributeName="opacity" values="0.85;1;0.85" dur="2s" repeatCount="indefinite"/>
-    </text>
   </svg>
 </p>
 
