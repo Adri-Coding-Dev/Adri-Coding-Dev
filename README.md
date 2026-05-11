@@ -127,9 +127,9 @@ public class Adri {
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-Coding-Dev&theme=github-compact&bg_color=1a1b26&color=bb9af7&line=7dcfff&point=ff79c6&area=true&hide_border=false" width="100%" alt="Gráfico de actividad"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-Coding-Dev&theme=github-compact&bg_color=1a1b26&color=a9b1d6&line=7dcfff&point=bb9af7&area=true&hide_border=false" width="100%" alt="Gráfico de actividad"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Adri-Coding-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="55%" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=Adri-Coding-Dev&theme=github-dark-blue&hide_border=true&background=1a1b26&stroke=7dcfff&ring=bb9af7&fire=f7768e&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6" width="55%" alt="Racha de contribuciones"/>
 </div>
 
 ---
