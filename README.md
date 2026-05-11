@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/%20-%E2%9A%99%EF%B8%8F%20¿Quien-soy?-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Tecnologías" />
+  <img src="https://img.shields.io/badge/%20-%20%C2%BFQui%C3%A9n%20Soy%3F-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="¿Quién Soy?" />
 </div>
 
 ```java
