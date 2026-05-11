@@ -140,14 +140,6 @@ public class Adri {
 
 ---
 
-### 🐍 La serpiente de mis contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Adri-Coding-Dev/Adri-Coding-Dev/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Adri-Coding-Dev/Adri-Coding-Dev/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://github.com/Adri-Coding-Dev/Adri-Coding-Dev/blob/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
 ---
 
 ### 🌍 Mi actividad en 3D
