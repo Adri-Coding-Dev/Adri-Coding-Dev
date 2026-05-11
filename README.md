@@ -7,8 +7,9 @@
 </div>
 
 ---
-
-# ¿Quién soy?
+<div align="center">
+  <img src="https://img.shields.io/badge/%20-%E2%9A%99%EF%B8%8F%20¿Quien-soy?-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Tecnologías" />
+</div>
 
 ```java
 public class Adri {
