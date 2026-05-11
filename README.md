@@ -1,20 +1,7 @@
 # ⚡ Bienvenid@ al cuartel de Coding with Adri ⚡
 
-<!-- Banner animado con gradiente y latido -->
 <p align="center">
-  <svg width="100%" height="120" viewBox="0 0 800 120">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00ffcc">
-          <animate attributeName="stop-color" values="#00ffcc;#0066ff;#00ffcc" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#0066ff">
-          <animate attributeName="stop-color" values="#0066ff;#00ffcc;#0066ff" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="800" height="120" fill="url(#grad)" rx="15"/>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
 </p>
 
 ```java
@@ -48,10 +35,6 @@ public class Adri {
     private void drinkCoffee() { /* ☕ */ }
 }
 ```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Developer+%7C+Cibersecurity;Aprendiz+de+todo%2C+maestro+de+nada;Let's+build+%26+break+stuff!;Youtube+Channel" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -138,18 +121,13 @@ public class Adri {
 
 ---
 
----
-
-### 🌍 Mi actividad en 3D
-
-[![3D Contrib](https://raw.githubusercontent.com/Adri-Coding-Dev/Adri-Coding-Dev/output/profile-3d-contrib/day.svg)](https://github.com/Adri-Coding-Dev)
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-Coding-Dev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%" alt="Gráfico de actividad"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-Coding-Dev&theme=github-compact&bg_color=1a1b26&color=bb9af7&line=7dcfff&point=ff79c6&area=true&hide_border=false" width="100%" alt="Gráfico de actividad"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=Adri-Coding-Dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="55%" alt="Racha de contribuciones"/>
 </div>
@@ -159,7 +137,7 @@ public class Adri {
 ### 📫 Contacto
 
 ¿Charlamos? ¿Una colaboración? ¿Un reto de código?  
-**Email:** adricoding647 [at] gmail [dot] com
+**Email:** adricoding647@gmail.com
 
 ---
 
